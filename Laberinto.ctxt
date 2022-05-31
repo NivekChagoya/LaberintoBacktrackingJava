@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment1.params=
+comment1.target=Laberinto()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=char[][]\ getLaberinto()
+comment4.params=
+comment4.target=void\ inicializar()
+comment5.params=laberinto
+comment5.target=boolean\ hayCamino(char[][])
+comment6.params=n_1\ x\ y\ laberinto\ incrX\ incrY
+comment6.target=boolean\ buscar(int,\ int,\ int,\ char[][],\ int[],\ int[])
+comment7.params=laberinto
+comment7.target=void\ imprimir(char[][])
+numComments=8
